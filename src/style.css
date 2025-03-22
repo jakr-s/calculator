@@ -1,4 +1,4 @@
-body {
+html > body {
   background-color: #999;
 }
 
@@ -30,6 +30,7 @@ body {
 }
 
 .buttons button {
+  margin: 0.1rem;
   background: #e0e0e0;
   border: none;
   font-size: 1.5rem;
